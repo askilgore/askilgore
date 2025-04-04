@@ -1,5 +1,5 @@
-## Hi there 👋
-
+Radiologist's Coding Projects
+Welcome to my GitHub repository! I'm a radiologist with a passion for coding, and I enjoy working on various small hobby projects. My goal is to eventually integrate these projects into my medical practice to enhance patient care and streamline workflows.
 <!--
 **askilgore/askilgore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
